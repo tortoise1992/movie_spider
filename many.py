@@ -1,3 +1,4 @@
+# -*- coding: UTF-8 -*-  
 import requests
 import pymysql
 from pyquery import PyQuery as pq
